@@ -1,0 +1,107 @@
+body {
+  background: url(../images/img1.jpg);
+  background-position: center;
+
+  font: normal 16pt Arial;
+}
+header {
+  color: white;
+  text-align: center;
+}
+.h_1 {
+  font-family: "Oxygen";
+  color: #411588ec;
+  text-align: center;
+}
+.div {
+  /* padding: 10px; */
+  background: #924478b7;
+  width: 70%;
+  height: 400px;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.info {
+  display: block;
+  float: left;
+  /* padding: 50px; */
+  cursor: pointer;
+}
+
+.info.invisivel {
+  display: none;
+}
+
+.fadeOut {
+  opacity: 0;
+  transition: 0.5s;
+}
+
+#filtrar-usuario {
+  width: 200px;
+  height: 35px;
+  margin-bottom: 10px;
+  display: block;
+  text-align: center;
+  margin: 20px auto 10px auto;
+}
+.botao-info {
+  display: block;
+  padding: 10px;
+  margin: 20px auto 10px auto;
+  background: #e00808;
+  width: 30px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.botao-info:hover {
+  background-color: #345a50d8;
+  border-color: transparent;
+}
+.button {
+  display: block;
+  padding: 20px;
+  margin: 20px auto 0 auto;
+  background: #0dc39c;
+  width: 100px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.button:hover {
+  background-color: #4f5352d8;
+  border-color: transparent;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li {
+  text-align: center;
+  /* padding: 20px; */
+  align-self: flex-start;
+  margin: 8px;
+}
+
+footer {
+  color: rgb(221, 222, 236);
+  font-size: 26px;
+  text-align: center;
+  font-style: italic;
+}
