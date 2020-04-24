@@ -1,5 +1,5 @@
 var campoFiltro = document.querySelector("#filtrar-usuario");
-campoFiltro.addEventListener("input", function() {
+campoFiltro.addEventListener("input", function () {
   var usuarios = document.querySelector("#list").children;
   if (this.value.length > 0) {
     for (var i = 0; i < usuarios.length; i++) {
