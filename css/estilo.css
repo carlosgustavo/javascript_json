@@ -22,7 +22,12 @@ header {
   box-sizing: border-box;
   padding: 20px;
 }
-
+ul li.info img {
+  border-radius: 50%;
+}
+ul li.info {
+  color: #fff;
+}
 .info {
   display: block;
   float: left;
@@ -49,31 +54,27 @@ header {
 }
 
 .button {
-  display: block;
-  width: 80px;
-  padding: 15px 25px;
-  font-size: 24px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: #fff;
-  background-color: #4caf50;
+  background-color: #1877f2;
   border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #999;
+  border-radius: 6px;
+  font-size: 20px;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 332px;
+  border: none;
   margin: 20px auto 0 auto;
+  display: block;
+  cursor: pointer;
+  color: #fff;
+  outline: none;
 }
 
 .button:hover {
-  background-color: #3e8e41;
+  background-color: #365999a8;
+  color: rgba(255, 255, 255, 0.678);
+  opacity: 0.8;
 }
 
-.button:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
-}
 ul {
   display: flex;
   flex-direction: row;
