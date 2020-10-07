@@ -17,6 +17,7 @@ Web App built in Vanilla JavaScript, busca e remoção de dados, de uma API fake
   <a href="#memo-license">License</a>
 </p>
 ![vanillajs-rest-api-fake](https://user-images.githubusercontent.com/53797220/95375627-41721e00-08b6-11eb-9a3d-6f5b7b1a2726.gif)
+                         
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
