@@ -1,5 +1,5 @@
 <h1 align="center">
-       <img alt="vanillajs-rest-api-fake" src="https://github.com/carlosgustavo/css-site-register-boxmodal/blob/master/images/guto.js.png?raw=true" />
+       <img alt="vanillajs-rest-api-fake" src="https://github.com/carlosgustavo/vanillajs-rest-api-fake/blob/master/images/vanillajs-rest-api-fake.png" />
     <br>
 Vanilla JavaScrip, Rest Fake API.
 </h1>
