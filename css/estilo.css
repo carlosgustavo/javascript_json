@@ -17,6 +17,7 @@ header {
   /* padding: 10px; */
   background: #924478b7;
   width: 70%;
+  overflow: auto;
   height: 400px;
   margin: auto;
   box-sizing: border-box;
@@ -54,7 +55,7 @@ ul li.info {
 }
 
 .button {
-  background-color: #1877f2;
+  background-color: #29c74ee1;
   border: none;
   border-radius: 6px;
   font-size: 20px;
@@ -70,7 +71,7 @@ ul li.info {
 }
 
 .button:hover {
-  background-color: #365999a8;
+  background-color: #29c74eaf;
   color: rgba(255, 255, 255, 0.678);
   opacity: 0.8;
 }
@@ -96,4 +97,23 @@ footer {
   font-size: 26px;
   text-align: center;
   font-style: italic;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #cfaed87e;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
