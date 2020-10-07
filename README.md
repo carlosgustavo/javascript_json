@@ -11,3 +11,8 @@ Web App built in Vanilla JavaScript, busca e remoção de dados, de uma API fake
   <img alt="Tamanho" src="https://img.shields.io/github/repo-size/carlosgustavo/vanillajs-rest-api-fake">
   <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/vanillajs-rest-api-fake">
 </p>
+<p align="center">
+  <a href="#rocket-technologies"">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
