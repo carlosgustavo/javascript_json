@@ -36,4 +36,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/carl
 
 ---
 
-Made by Carlos Gustavo 👨🏻‍💻️ [Get in touch!](https://www.linkedin.com/in/carlos-gustavo-a71757190/)
+Developed by Carlos Gustavo👨🏻‍💻️ [Get in touch!](https://www.linkedin.com/in/carlos-gustavo-a71757190/)
