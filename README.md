@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 To run the website, download the project and click on the index.html file.
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/css-site-register-boxmodal/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/vanillajs-rest-api-fake/blob/master/LICENSE) for more information.
 
 ---
 
